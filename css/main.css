@@ -1044,7 +1044,6 @@ header .container nav ul li a:hover {
 }
 /* End Subscribe */
 /* Start Contact */
-
 .contact-us .container {
     padding: 0;
 }
@@ -1133,9 +1132,7 @@ header .container nav ul li a:hover {
     }
 
     .contact-us .container .content .phone-address {
-        justify-content: center;
-        align-items: center;
-        width: 25%;
+        width: 60%;
         margin-bottom: 50px;
     }
 }
